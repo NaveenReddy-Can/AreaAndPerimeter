@@ -1,0 +1,11 @@
+C:\Users\Naveen Reddy\source\repos\areaAndPerimeter\bin\Debug\areaAndPerimeter.exe.config
+C:\Users\Naveen Reddy\source\repos\areaAndPerimeter\bin\Debug\areaAndPerimeter.exe
+C:\Users\Naveen Reddy\source\repos\areaAndPerimeter\bin\Debug\areaAndPerimeter.pdb
+C:\Users\Naveen Reddy\source\repos\areaAndPerimeter\obj\Debug\areaAndPerimeter.csproj.AssemblyReference.cache
+C:\Users\Naveen Reddy\source\repos\areaAndPerimeter\obj\Debug\areaAndPerimeter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Naveen Reddy\source\repos\areaAndPerimeter\obj\Debug\areaAndPerimeter.Properties.Resources.resources
+C:\Users\Naveen Reddy\source\repos\areaAndPerimeter\obj\Debug\areaAndPerimeter.csproj.GenerateResource.cache
+C:\Users\Naveen Reddy\source\repos\areaAndPerimeter\obj\Debug\areaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\Naveen Reddy\source\repos\areaAndPerimeter\obj\Debug\areaAndPerimeter.exe
+C:\Users\Naveen Reddy\source\repos\areaAndPerimeter\obj\Debug\areaAndPerimeter.pdb
+C:\Users\Naveen Reddy\source\repos\areaAndPerimeter\obj\Debug\areaAndPerimeter.AreaAndPerimeter.resources
